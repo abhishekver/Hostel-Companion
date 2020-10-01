@@ -1,4 +1,5 @@
 <?php
+/* Depricated, can use cookies instead */
 session_start();  
 include("databaseconnection.php");
 ?>
